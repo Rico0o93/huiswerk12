@@ -1,0 +1,60 @@
+header {
+  background-color: #f7dfa1;
+  width: 100%;
+  height: 200px;
+  text-align: center;
+}
+footer {
+  background-color: #d9b65d;
+  width: 100%;
+  height: 200px;
+  text-align: center;
+}
+#cel1 {
+  background: #3300ff;
+}
+#cel2 {
+  background: #33ffff;
+}
+#cel3 {
+  background: #cc9999;
+}
+#cel4 {
+  background: #cc6699;
+}
+#cel5 {
+  background: #ff0000;
+}
+#cel6 {
+  background: #ffff00;
+}
+#cel7 {
+  background: #999900;
+}
+#cel8 {
+  background: #996600;
+}
+#cel9 {
+  background: #0000cc;
+}
+#cel10 {
+  background: #0066cc;
+}
+#cel11 {
+  background: #99cc00;
+}
+#cel12 {
+  background: #cccc99;
+}
+#cel13 {
+  background: #cccccc;
+}
+#cel14 {
+  background: #ccffcc;
+}
+#cel15 {
+  background: #ff66ff;
+}
+#cel16 {
+  background: #ffccff;
+}
